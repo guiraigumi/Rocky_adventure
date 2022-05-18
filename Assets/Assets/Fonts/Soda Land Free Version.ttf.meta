@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 4f678d39840cdf0418f555e332733f62
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - Soda Land
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: f7f336b1db7e8084ab19245c1e683a2c, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
